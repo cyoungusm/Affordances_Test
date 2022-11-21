@@ -1,10 +1,10 @@
 <section class="instructions">
     <h2 class="textcenter">Task Instructions</h2>
     <!-- ## SET ## Change the instructions text to match your task.-->
-    <p>In this study you will be studying some stuff then you will need to recall that stuff.
-       After each bunch of stuff there will be some kind of memory task. </p>
-    <p>Please pay close attention to the things we are showing you.
-    <p> As many paragraphs as you would like can go here.  Instructions are done.  Time for you to move onto the experiment </p>
+    <p> In this study, you will be presented with a series of object words. </p>
+    <p> You will be asked to list as many possible uses for each object as you can think of. </p>
+    <p> It is important that you pay close attention to each object! Please close out of any other open windows/browser tabs! </p>
+    <p> Please click advance when you are ready to continue. </p>
 
     <div class="textcenter" id="revealRC">
         <button class="collectorButton" type="button">Advance</button>
